@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dilaramandiraci
-- I'm a freshman student at CS, Bilkent University
+- I'm a sophomore student at CS, Bilkent University
 
 
 <!---
