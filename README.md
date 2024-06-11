@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dilaramandiraci
-- I'm a 3rd year student at CS, Bilkent University
+- I'm a 4th year student at CS, Bilkent University
 - You can reach me via dilaramandiracii@gmail.com
 
 
