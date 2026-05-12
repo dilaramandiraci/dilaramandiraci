@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dilaramandiraci
-- I'm a senior student at CS, Bilkent University
-- You can reach me via dilaramandiracii@gmail.com
+- Computer Engineer @META
 
 
 <!---
